@@ -297,7 +297,7 @@ body{
 }
 
 footer{
-
+    Padding: -2px;
     background-color: var(--pink);
     color: white;
 }
@@ -315,7 +315,7 @@ footer a:hover{
 footer li{
     list-style: none;
     display: inline;
-  margin: 0.5Rem;
+
 
 }
 
