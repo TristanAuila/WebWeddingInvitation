@@ -286,13 +286,13 @@ body{
 }
 
 .rsvp button{
-    background-color: var(--pink);
+    background-color: var(--blue);
     color: white;
-    border: 1px solid var(--pink);
+    border: 1px solid var(--blue);
 }
 .rsvp button:hover{
     background-color: white;
-    color: var(--pink);
+    color: var(--blue);
     border: 1px solid white;
 }
 
